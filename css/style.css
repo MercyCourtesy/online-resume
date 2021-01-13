@@ -1,0 +1,47 @@
+html, body {
+    margin-left: 0;
+    padding-left: 0;
+    background-color:pink
+
+  }
+.jumbotron .container h1 {
+    text-align:center;
+    font-weight:bold;
+color:purple;
+font-family:fantasy;
+font-size: 32px;
+letter-spacing: 2px;
+}
+.info { text-align: center;
+    font-size: 12px;
+    font-family: fantasy;
+
+}
+.box-bottom  .container {
+    background-color: pink;
+    box-sizing: border-box;
+    padding: 0px;
+    text-align: right;
+    position: relative;
+    box-sizing: border-box;
+    background-size: cover;
+  background-position: bottom center;
+  height: 250px;
+  width: 100%;
+    margin-left: 100px;
+    padding-left: 50px;
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    background-color: rgb(231, 166, 180);
+    position:block ;
+    left: 50px;
+}
+
+#first-paragraph {
+    text-align: center;
+}
+
+
+    
